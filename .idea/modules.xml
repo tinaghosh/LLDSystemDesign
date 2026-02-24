@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" filepath="$PROJECT_DIR$/ElevatorDesign/ElevatorDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LLD System Design Projects.iml" filepath="$PROJECT_DIR$/LLD System Design Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParkingLotDesign/ParkingLotDesign.iml" filepath="$PROJECT_DIR$/ParkingLotDesign/ParkingLotDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/educative System Design/educative System Design.iml" filepath="$PROJECT_DIR$/educative System Design/educative System Design.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/System design /Parking Lot/educative-code-widget-files/educative-code-widget-files.iml" filepath="$USER_HOME$/Desktop/System design /Parking Lot/educative-code-widget-files/educative-code-widget-files.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/System design /ElevatorSystem/educative-code-widget-files/educative-code-widget-files2.iml" filepath="$USER_HOME$/Desktop/System design /ElevatorSystem/educative-code-widget-files/educative-code-widget-files2.iml" />
+    </modules>
+  </component>
+</project>
