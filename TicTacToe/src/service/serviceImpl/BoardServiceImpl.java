@@ -3,7 +3,6 @@ package service.serviceImpl;
 import model.board.Board;
 import model.board.Pair;
 import model.piece.Piece;
-import model.piece.PieceType;
 import service.BoardService;
 
 import java.util.ArrayList;
