@@ -42,7 +42,7 @@ public class GameController {
         boardService.initializeCells();
         boardService.addSnakesAndLadders();
 
-        Dice dice = new Dice();
+        dice = new Dice();
 
         players = new LinkedList<>();
 
@@ -58,7 +58,6 @@ public class GameController {
         players.add(player2);
 
         winner = null;
-
 
         diceService = new DiceServiceImpl(dice);
 

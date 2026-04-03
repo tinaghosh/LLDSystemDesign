@@ -1,5 +1,5 @@
 package service;
 
 public interface DiceService {
-    public int rollDice();
+     int rollDice();
 }
